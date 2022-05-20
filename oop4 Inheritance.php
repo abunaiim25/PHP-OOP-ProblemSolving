@@ -1,9 +1,7 @@
-
 <?php
 
 class oopParent
 {
-
     public $quantity;
     public $place;
 
